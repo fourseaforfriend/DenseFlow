@@ -46,6 +46,6 @@ python my_denseflow_v1.py --data_root /path/to/dataset --dataset DatasetName --n
 
 Just feel free to let me know if any bugs exist.
 
-This code can process dataset like UCF-101，HMDB-51,etc.
+This code can process dataset like UCF-101，HMDB-51 and etc.
 
 This code refrence to this link:https://github.com/qijiezhao/py-denseflow.git, and make some change.
