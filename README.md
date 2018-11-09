@@ -48,4 +48,4 @@ Just feel free to let me know if any bugs exist.
 
 This code can process dataset like UCF-101，HMDB-51 and etc.
 
-This code refrence to this link:https://github.com/qijiezhao/py-denseflow.git, and make some change.
+This code refrence to this [link](https://github.com/qijiezhao/py-denseflow.git), and make some change.
