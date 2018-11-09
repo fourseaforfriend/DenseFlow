@@ -1,0 +1,2 @@
+python my_denseflow_v1.py --data_root /path/to/rootDir --dataset processDir --num_workers 1 --step 1 --bound 20 --mode debug
+python my_denseflow_v1.py --data_root /path/to/rootDir --dataset processDir --num_workers 4 --step 1 --bound 20 --mode run
