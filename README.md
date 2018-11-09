@@ -1,5 +1,5 @@
 # DenseFlow
-For Two-Stream code, make it
+For Two-Stream code, create it
 
 This is a python port of denseflow, which extract the videos' frames and **optical flow images** with **TVL1 algorithm** as default.
 
